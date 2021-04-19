@@ -1,4 +1,4 @@
-<h1 align="center">{404 NOT FOUND}</h1>
+<h1 align="center">404 NOT FOUND</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="https://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -6,12 +6,8 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://404-not-found-challenge-1.netlify.app/">
       Demo
-    </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
