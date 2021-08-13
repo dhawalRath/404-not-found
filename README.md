@@ -1,48 +1,27 @@
-<div align="center">
-   Solution for a challenge from  <a href="https://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
+# devChallenges - 404 Not Found page solution
 
-<div align="center">
-  <h3>
+Solution for a challenge from  <a href="https://devchallenges.io" target="_blank">Devchallenges.io</a>. </br>
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+
+<h3> :point_right:
     <a href="https://404-not-found-challenge-1.netlify.app/">
       Live Site 
     </a>
-  </h3>
-</div>
+</h3>
 
 
 
-## Table of Contents
-
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-
-
-
-## Overview
+## :camera: Overview
 
 ![desktop](./screenshots/desktop.png)
-![mobile](./screenshots/mobile.png)
 
-### Built With
+## 💪 Built With
 
 - HTML5 Semantics
 - CSS3 (with Grid and Flexbox)
 - Media Queries (for Mobile design)
 
-## Features
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
-
-
-## Acknowledgements
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-
-## Contact
+## :man: Author
 
 - GitHub [@dhawalRath](https://{github.com/dhawalRath})
 - Twitter [@dhawalRath](https://{twitter.com/dhawalRath})
