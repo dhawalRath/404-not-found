@@ -13,8 +13,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## :camera: Overview
 
-![desktop](./ss/desktop.png) </br>
-![mobile](./ss/mobile.png) 
+![desktop](./ss/desktop.png) ![mobile](./ss/mobile.png) 
 
 ## 💪 Built With
 
