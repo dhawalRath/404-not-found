@@ -1,4 +1,4 @@
-# devChallenges - 404 Not Found page solution
+# :star2: devChallenges - 404 Not Found :star2:
 
 Solution for a challenge from  <a href="https://devchallenges.io" target="_blank">Devchallenges.io</a>. </br>
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
@@ -13,7 +13,8 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## :camera: Overview
 
-![desktop](./screenshots/desktop.png)
+![desktop](./ss/desktop.png) </br>
+![mobile](./ss/mobile.png) 
 
 ## 💪 Built With
 
